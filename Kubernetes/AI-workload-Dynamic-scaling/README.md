@@ -1,11 +1,3 @@
-# 🎯 Dynamic AI Workload Scaling on AWS EKS using Karpenter
-
-Author: [Keval Kanpariya](https://techanek.com/author/keval/)  
-Date: September 25, 2024  
-Tech Stack: AWS, Kubernetes, Karpenter, GPU Workloads
-
----
-
 ## 🚀 Overview
 
 In today’s AI-driven landscape, efficient resource management is key to optimizing both performance and cost. This project demonstrates how to achieve **dynamic GPU node provisioning** for AI workloads on AWS EKS using **Karpenter**, an open-source autoscaler.
