@@ -6,7 +6,7 @@ A **Jenkins Shared Library** is a powerful tool that allows you to centralize co
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:1116/1*5A8OrocBg3OhG4XHYoF3tQ.jpeg" alt="jenkins" width="300"/>
+      <img src="https://camo.githubusercontent.com/e2b12a8c2b2a234fbb9b2ee79a8740a6d4619f42277853edcb08432839b738bd/68747470733a2f2f66696c65732e6769747465722e696d2f746f6d617276322f6f79364c2f53637265656e2d53686f742d323032302d30342d30392d61742d392e30382e31362d504d2e706e67" width="300"/>
     </td>
   </tr>
 </table>
